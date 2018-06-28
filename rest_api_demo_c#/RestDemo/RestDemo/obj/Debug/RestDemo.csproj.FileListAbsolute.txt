@@ -1,0 +1,9 @@
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\bin\Debug\RestDemo.exe.config
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\bin\Debug\RestDemo.exe
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\bin\Debug\RestDemo.pdb
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\bin\Debug\RestSharp.dll
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\obj\Debug\RestDemo.csprojAssemblyReference.cache
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\obj\Debug\RestDemo.csproj.CoreCompileInputs.cache
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\obj\Debug\RestDemo.csproj.CopyComplete
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\obj\Debug\RestDemo.exe
+C:\api-demo\coinsuper\rest_api_demo_c#\RestDemo\RestDemo\obj\Debug\RestDemo.pdb
