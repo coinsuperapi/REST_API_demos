@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using System.Text;
 using RestSharp;
+using System.Net;
 /// <summary>
 /// rest api相关工具 by Lynn Li
 /// </summary>
@@ -78,6 +79,7 @@ namespace RestDemo
             {
                 request.AddJsonBody(jsonData);
             }
+            ServicePointManager.SecurityProtocol = (SecurityProtocolType)192 | (SecurityProtocolType)768 | (SecurityProtocolType)3072;
             return client.Execute(request).Content;
         }
 
